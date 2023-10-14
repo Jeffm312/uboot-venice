@@ -10,7 +10,7 @@
 #include "imx8mm-venice-gw71xx.dtsi"
 
 / {
-	model = "Gateworks Venice GW71xx-0x i.MX8MM Development Kit";
+	model = "Mogamote Radio Platform";
 	compatible = "gw,imx8mm-gw71xx-0x", "fsl,imx8mm";
 
 	chosen {
